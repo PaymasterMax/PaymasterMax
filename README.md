@@ -4,6 +4,7 @@
   - Frontend - React, html,css,js
   - Backend - Firebase, DJango, nodejs
 
+- I Speak Python language.
 - I Build living models to predict and oversee your future so you wanna trust me 😂.
 - Lately I have been building spiders to crawl the internet, be carefull<br>it does not crawl on you in your tour on my repos😉.<br><br>
 ###### That's just it to mention a few. Have fun little creature.<br>
