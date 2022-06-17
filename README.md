@@ -1,5 +1,5 @@
 ### Hi there 👋, meet your internet friend <strong>Duncan / Morph 🔥</strong>,
-- Likes to play around with the `linux kernel`, `Bash shell`.
+- I like to play around with the `linux kernel`, `Bash shell`.
 - Fullstack web dev: 
   - Frontend - React, html,css,js
   - Backend - Firebase, DJango, nodejs
