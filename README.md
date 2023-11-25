@@ -1,8 +1,9 @@
 ### Hi there 👋, meet your internet friend <strong>Duncan / ꧁༒☬𝓜𝓸𝓻𝓹𝓱☬༒꧂ 🔥</strong>,
 - I like to play around with the `linux kernel`, `Bash shell`.
 - Fullstack web dev: 
-  - Frontend - React, html,css,js
+  - Frontend - Reactjs, Nextjs, html,css,js
   - Backend - Firebase, DJango, nodejs
+  - System Administration - Bash, unix, ansible, docker
 
 - I Speak Python language.
 - I Build living models to predict and oversee your future, you wanna trust me 😂.
