@@ -1,4 +1,4 @@
-### Hi there 👋, meet your internet friend <strong>Duncan / ꧁༒☬𝓜𝓸𝓻𝓹𝓱☬༒꧂ 🔥</strong>,
+### Hi there 👋, meet your new internet friend <strong>Duncan / ꧁༒☬𝓜𝓸𝓻𝓹𝓱☬༒꧂ 🔥</strong>,
 - I like to play around with the `linux kernel`, `Bash shell`.
 - Fullstack web dev: 
   - Frontend - Reactjs, Nextjs, Shadcn, ElectronJs.
