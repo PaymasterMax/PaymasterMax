@@ -6,8 +6,8 @@
   - System Administration - Bash, unix, ansible, docker.
   - 3D modelling & Animation.
 
-- I Speak Python language.
-- I Build living models to predict and oversee your future. Trust me Bro 😂.
+- I Major write code in Python.
+- I Build living AI models to predict and oversee your future. Trust me Bro 😂.
 - Lately I have been building spiders to crawl the internet, be carefull<br>it does not crawl on you in your tour on my repos😉.<br><br>
 ### Checkout my portfolio at [portfolio](https://portfolio-smoky-tau-12.vercel.app)
 ###### That's just it to mention a few.<br>
