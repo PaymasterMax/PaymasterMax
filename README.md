@@ -6,7 +6,7 @@
   - System Administration - Bash, unix, ansible, docker.
   - 3D modelling & Animation.
 
-- I Major write code in Python.
+- I Majorly write code in Python.
 - I Build living AI models to predict and oversee your future. Trust me Bro 😂.
 - Lately I have been building spiders to crawl the internet, be carefull<br>it does not crawl on you in your tour on my repos😉.<br><br>
 ### Checkout my portfolio at [portfolio](https://portfolio-smoky-tau-12.vercel.app)
