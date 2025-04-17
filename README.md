@@ -1,9 +1,10 @@
 ### Hi there 👋, meet your new internet friend <strong>Duncan / ꧁༒☬𝓜𝓸𝓻𝓹𝓱☬༒꧂ 🔥</strong>,
 - I like to play around with the `linux kernel`, `Bash shell`.
 - Fullstack web dev: 
-  - Frontend - Reactjs, Nextjs, Shadcn, ElectronJs.
+  - Frontend - ReactJS, NextJS, Shadcn, ElectronJs.
   - Backend - NestJs, NodeJs, DJango, Firebase.
-  - System Administration - Bash, unix, ansible, docker.
+  - System Administration - Bash, unix os management.
+  - DevOps - Github actions, Jenkins, Docker, K8s & AWS
   - 3D modelling & Animation.
 
 - I Majorly write code in Python.
