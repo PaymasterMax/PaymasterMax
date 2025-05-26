@@ -1,6 +1,6 @@
 ### Hi there 👋, meet your new internet friend <strong>Duncan / ꧁༒☬𝓜𝓸𝓻𝓹𝓱☬༒꧂ 🔥</strong>,
-- I like to play around with the `linux kernel`, `Bash shell`.
-- Fullstack web dev: 
+- I like to play around with the `linux kernel`, `Linux shell`.
+- Areas of expertise: 
   - Frontend - ReactJS, NextJS, Shadcn, ElectronJs.
   - Backend - NestJs, NodeJs, DJango, Firebase.
   - System Administration - Bash, unix os management.
