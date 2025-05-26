@@ -3,9 +3,11 @@
 - Areas of expertise: 
   - Frontend - ReactJS, NextJS, Shadcn, ElectronJs.
   - Backend - NestJs, NodeJs, DJango, Firebase.
-  - System Administration - Bash, unix os management.
+  - Databases: PostgreSql, MySQL, MongoDb, RDS e.t.c 
+  - System Administration - Computer Networks, User maagement, system management e.t.c.
   - DevOps - Github actions, Jenkins, Docker, K8s & AWS
   - 3D modelling & Animation.
+  - Data analytics & Data Science.
 
 - I Majorly write code in Python.
 - I Build living AI models to predict and oversee your future. Trust me Bro 😂.
